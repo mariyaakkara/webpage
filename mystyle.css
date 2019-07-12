@@ -1,0 +1,65 @@
+.hearderdiv
+{
+    background-color:black;
+    color:white;
+    height: 100px;
+    text-align: center;
+}
+
+
+.leftdiv{
+    width: 40%;
+    height:500px;
+    float: left;
+}
+
+
+.centerdiv{
+    width: 30%;
+    height:500px;
+    float:left;
+}
+
+
+.rightdiv {
+    width: 30%;
+    height: 500px;
+    float: left;
+}
+
+.footerdiv{
+    clear:left;
+    background-color: black;
+    height: 100px;
+}
+.lefttile1div{
+    height:33%;
+}
+.lefttile2div{
+    height:33%;
+}
+.lefttile3div{
+     height:34%;
+ }
+.centertile1div{
+    height:50%;
+    font-size: 40px ;
+    font: italic;
+    color: black ;
+    float: right;
+}
+.centertile2div{
+    height:50%;
+
+}
+
+.righttile1div{
+    height:50%;
+}
+.righttile2div{
+    height:50%;
+}
+.img1{
+    float: left;
+    border:1px solid white;
+}
